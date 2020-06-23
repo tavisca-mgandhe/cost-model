@@ -9,4 +9,4 @@ roleRef:
 subjects:
   - kind: ServiceAccount
     name: cost-model
-    namespace: cost-model
+    namespace: utilities
